@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export const Content = () => {
+export const Footer = () => {
     return (
         <div>
 
